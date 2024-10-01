@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm HARSHIT PATIL</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -133,7 +133,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <br>
 
-### RAFIKSHA/README.md activity
+
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
 <!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
