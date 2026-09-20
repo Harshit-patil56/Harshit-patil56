@@ -1,3 +1,3 @@
 ### Hi, I'm Harshit Patil
 
-I am an AI/ML Engineer currently completing my  undergraduate studies in Artificial Intelligence and Machine Learning. My research and project work focus on developing intelligent systems, including autonomous racing models, real-time predictive algorithms, and 3D conversational agents. My primary focus is the practical application and deployment of machine learning research to solve complex problems.
+I am an AI/ML Engineer, and I scaled software from 0 to 8,000+ active users and growing, built AI agents and production ML systems, and fine-tuned and deployed an LLM. Built neural networks capable of autonomously driving  F1 cars in F1 2020 at 350+ km/h.
