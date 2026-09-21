@@ -1,3 +1,21 @@
-### Hi, I'm Harshit Patil
+# Hi, I'm Harshit Patil 👋
 
-I am an AI/ML Engineer, and I scaled software from 0 to 8,000+ active users and growing, built AI agents and production ML systems, and fine-tuned and deployed an LLM. Built neural networks capable of autonomously driving  F1 cars in F1 2020 at 350+ km/h.
+I'm an **AI/ML Engineer** building AI systems, ML applications, and full-stack products.
+
+
+
+
+### Links
+
+* [Portfolio](https://harshit-patil56.github.io/Harshit-Patil-dev/)
+* [LinkedIn](https://www.linkedin.com/in/harshit-patil)
+
+### Daisy
+
+My personal AI assistant, fine-tuned on Gemma 3 4B and available on Ollama.
+
+```bash
+ollama run HarshitPatil/daisy
+```
+
+[Ollama](https://ollama.com/HarshitPatil/daisy) · [Hugging Face](https://huggingface.co/harshit23442/Gemma-3-4B-Personal-Assistant)
