@@ -13,10 +13,10 @@ I'm an **AI/ML Engineer** building AI systems, ML applications, and full-stack p
 ### Daisy
 
 My personal AI assistant, fine-tuned on Gemma 3 4B and available on Ollama.
-![Ollama Downloads](https://img.shields.io/badge/Ollama%20Downloads-29-blue)
+
 
 ```bash
 ollama run HarshitPatil/daisy
 ```
 
-[Ollama](https://ollama.com/HarshitPatil/daisy) 
+[Ollama](https://ollama.com/HarshitPatil/daisy) ![Ollama Downloads](https://img.shields.io/badge/Ollama%20Downloads-29-blue)
