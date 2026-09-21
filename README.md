@@ -19,4 +19,4 @@ My personal AI assistant, fine-tuned on Gemma 3 4B and available on Ollama.
 ollama run HarshitPatil/daisy
 ```
 
-[Ollama](https://ollama.com/HarshitPatil/daisy) ![Ollama Downloads](https://img.shields.io/badge/Ollama%20Downloads-29-blue)
+[![Ollama](https://img.shields.io/badge/Ollama-29%20Downloads-blue)](https://ollama.com/HarshitPatil/daisy)
