@@ -18,4 +18,4 @@ My personal AI assistant, fine-tuned on Gemma 3 4B and available on Ollama.
 ollama run HarshitPatil/daisy
 ```
 
-[Ollama](https://ollama.com/HarshitPatil/daisy) · [Hugging Face](https://huggingface.co/harshit23442/Gemma-3-4B-Personal-Assistant)
+[Ollama](https://ollama.com/HarshitPatil/daisy) 
